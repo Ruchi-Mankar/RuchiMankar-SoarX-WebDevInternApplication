@@ -12,7 +12,7 @@ index.html: Contains the HTML structure for the rotating wheels.
 style.css: Contains the CSS styles responsible for the visual appearance and animation of the wheels.  
 ## Usage:  
 1. Clone the repository:
-   git clone 'https://github.com/Ruchi-Mankar/RuchiMankar-SoarX.git'  
+   git clone 'https://github.com/Ruchi-Mankar/RuchiMankar-SoarX-WebDevInternApplication.git'  
 2. Open index.html in a web browser to view the rotating wheels in action.
 ## Conclusion:  
 This project not only fulfills the basic requirements set by the internship task but also demonstrates creativity and a willingness to go beyond the given problem statement. The incorporation of three distinct wheels adds a unique touch and showcases a deeper understanding of frontend development.  
