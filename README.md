@@ -17,4 +17,4 @@ style.css: Contains the CSS styles responsible for the visual appearance and ani
 ## Conclusion:  
 This project not only fulfills the basic requirements set by the internship task but also demonstrates creativity and a willingness to go beyond the given problem statement. The incorporation of three distinct wheels adds a unique touch and showcases a deeper understanding of frontend development.  
 ## Visit Site:  
-https://ruchi-mankar.github.io/RuchiMankar-SoarX-WebDevInternApplication/)https://ruchi-mankar.github.io/RuchiMankar-SoarX-WebDevInternApplication/
+https://ruchi-mankar.github.io/RuchiMankar-SoarX-WebDevInternApplication/
